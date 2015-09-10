@@ -13,8 +13,8 @@
 set(scripts_STAT_SRCS
   ${scripts_STAT_SRCS}
 #  ${sources_Custom}
-Custom/1v1/npc_arena1v1.cpp
-Custom/1v1/npc_arena1v1.h
+Custom/1V1/npc_arena1v1.cpp
+Custom/1V1/npc_arena1v1.h
 Custom/PVP/arena_crystal.cpp
 Custom/Arenaspectator/arena_spectator.cpp
 Custom/PVP/arenaladder.cpp
@@ -29,7 +29,7 @@ Custom/CustomFunStuff/cooldowns_crystal.cpp
 Custom/TemplateNPC/TemplateNPC.cpp
 Custom/TemplateNPC/TemplateNPC.h
 Custom/CustomFunStuff/reset_onduel_end.cpp
-=Custom/CustomFunStuff/playertools.cpp
+Custom/CustomFunStuff/playertools.cpp
 Custom/CustomFunStuff/Phased_duel.cpp
 Custom/CustomFunStuff/druidformhackfix.cpp
 
